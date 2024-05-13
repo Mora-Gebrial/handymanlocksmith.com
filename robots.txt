@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /404.html
+Disallow: /admin/
+
+Sitemap: https://handymanlocksmith.com/sitemap.xml
+Sitemap: https://handymanlocksmith.com/blog_sitemap.xml
